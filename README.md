@@ -1,2 +1,1 @@
-# Server_geomagicTouch
-Teleoperation system - Server of motor actuation part
+# Teleoperation system - motor actuation part
